@@ -37,6 +37,10 @@ span {
   font-family: "Roboto Condensed", Arial, sans-serif;
   color: #2a2a2a;
 }
+main {
+    display: flex;
+    flex: 3;
+}
 
 h1 {
   flex: 1;
